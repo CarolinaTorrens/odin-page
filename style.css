@@ -81,10 +81,16 @@ button{
     text-align: center;
 }
 
+.section-02{
+    margin: 30px;
+    margin-bottom: 100px;
+}
+
 .boxes{
     display: flex;
     justify-content: center; 
     gap: 60px
+    
 }
 
 .img{
@@ -106,8 +112,29 @@ font-size: 32px;
 
 
 
+.section-03{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: justify;
+    height: 400px;
+    background: #e5e7eb;
+    padding: 40px 420px;
+}
+
+cite{
+    font-size: light italic;
+    font-size: 36px;
+    text-align: justify;
+    font-weight: 100;
+}
 
 
+.cita{
+    color:black;
+}
 
-
-
+.N2{
+    display: flex;
+    justify-content: end;
+}
