@@ -119,7 +119,7 @@ font-size: 32px;
     align-items: justify;
     height: 400px;
     background: #e5e7eb;
-    padding: 30px 29%;
+    padding: 10px 29%;
 }
 
 cite{
@@ -145,8 +145,9 @@ cite{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 100px;
+    padding: 120px 100px;
     align-items: center;
+    
 }
   
 .container{
@@ -155,7 +156,7 @@ cite{
     padding: 30px 80px;
     align-items: center;
     border-radius: 8px;
-    
+        
     
     
 }
