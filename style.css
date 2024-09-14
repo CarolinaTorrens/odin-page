@@ -119,13 +119,13 @@ font-size: 32px;
     align-items: justify;
     height: 400px;
     background: #e5e7eb;
-    padding: 30px 25%;
+    padding: 30px 28%;
 }
 
 cite{
     font-size: light italic;
     font-size: 36px;
-    text-align: justify;
+    text-align: start;
     font-weight: 100;
 }
 
