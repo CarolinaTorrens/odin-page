@@ -119,7 +119,7 @@ font-size: 32px;
     align-items: justify;
     height: 400px;
     background: #e5e7eb;
-    padding: 30px 28%;
+    padding: 30px 29%;
 }
 
 cite{
@@ -132,6 +132,8 @@ cite{
 
 .cita{
     color:black;
+    font-weight: 800;
+    font-size: 22px;
 }
 
 .N2{
