@@ -148,14 +148,6 @@ cite{
     padding: 40px 100px;
     align-items: center;
 }
-
-
-
-
-
-
-
-
   
 .container{
     display: flex;
@@ -194,9 +186,12 @@ cite{
     color: white;
     padding: 0;
     margin: 5px;
-   
 
-    
+}
 
-
+footer{
+    background: #1F2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 30px;
 }
