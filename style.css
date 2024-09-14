@@ -119,7 +119,7 @@ font-size: 32px;
     align-items: justify;
     height: 400px;
     background: #e5e7eb;
-    padding: 40px 420px;
+    padding: 30px 25%;
 }
 
 cite{
@@ -137,4 +137,64 @@ cite{
 .N2{
     display: flex;
     justify-content: end;
+}
+
+.section-04{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 100px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+  
+.container{
+    display: flex;
+    background: #3882F6;
+    padding: 30px 80px;
+    align-items: center;
+    border-radius: 8px;
+    
+    
+    
+}
+
+.texto2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.blue{
+    border: 2px solid #f9faf8;
+    margin: 20px;
+    margin-left: 40px;
+
+    
+    
+}
+
+.Mayu{
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.p04{
+    color: white;
+    padding: 0;
+    margin: 5px;
+   
+
+    
+
+
 }
